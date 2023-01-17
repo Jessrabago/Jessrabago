@@ -17,6 +17,5 @@ About me:
 ##
 #### where to find me:
 
-<a href=”https://www.linkedin.com/in/jessica-rabago-05539424a/"><img align=”left” src=”https://raw.githubusercontent.com/Jessrabago/Jessrabago/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
-
+<a href=”https://www.linkedin.com/in/jessica-rabago-05539424a/"><img align=”left” src=”https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=”icon | LinkedIn” width=”21px”/></a>
 
