@@ -17,5 +17,6 @@ About me:
 ##
 #### where to find me:
 
-[test]([https://www.google.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))
-[I'm an inline-style link](https://www.google.com)
+<a href=”https://www.linkedin.com/in/jessica-rabago-05539424a/"><img align=”left” src=”https://raw.githubusercontent.com/Jessrabago/Jessrabago/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+
+
