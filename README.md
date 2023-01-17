@@ -1,8 +1,8 @@
-### Hi!! My name is Jessica 😄
+### Hi!! My name is Jessica :star2:       
 ##
 
 #### Computer science in data science
-![](/pictures/J.png)
+
 
  
 I like to upload my project to.
@@ -10,4 +10,4 @@ I like to upload my project to.
 
 #### where to find me
 
-
+![](/pictures/small_j.PNG) 
