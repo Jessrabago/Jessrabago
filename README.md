@@ -2,7 +2,7 @@
 ##
 
 #### Computer science in data science
-![x](images/x.jpg)
+![](x.PNG)
 
  
 I like to upload my project to.
