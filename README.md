@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi!! My name is Jessica 😄
+##
 
-<!--
-**Jessrabago/Jessrabago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
+#### Computer science in data science
 
+
+ 
 I like to upload my project to.
 
 
 #### where to find me
+
+
