@@ -20,7 +20,7 @@ of data. :computer: I have completing high-level courses in Python, SQL, R. :bar
 - Multi-class classification of images.
 - Use of python to detect anomalies in database.
 ##
-#### where to find me:
+#### Where to find me:
 <a href="https://www.linkedin.com/in/jessica-rabago-05539424a/"> <img align=”left”>
     <img src="pictures/linkedin.png" alt="LinkedIn" width="50" height="50"></a>
 
